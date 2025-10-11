@@ -9,6 +9,7 @@ This repository aggregates selected public articles published across both editio
 ## 🧭 About the Project
 
 **Coffee, Codex, Cortex** is more than a newsletter — it’s an ongoing dialogue between **engineering, philosophy, and the art of reasoning**.  
+
 Each issue dissects complex ideas from software architecture, AI, product design, and the scientific method, through the lens of **clarity, elegance, and intellectual rigor**.
 
 
