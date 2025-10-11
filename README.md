@@ -1,6 +1,7 @@
 # ☕ Coffee, Codex, Cortex — Publications Repository
 
 Welcome to the official publication archive for **Coffee, Codex, Cortex** (CCC) and **Coffee, Codex, Cortex BR** — bilingual newsletters exploring the intersections of **technology, logic, and creative thinking**.  
+
 This repository aggregates selected public articles published across both editions.
 
 ---
